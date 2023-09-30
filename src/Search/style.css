@@ -57,6 +57,7 @@ body{
     width: 500px;
     height: 100px;
     box-shadow: 4px 4px 4px black;
+    text-align: center;
 }
 .container{
     display:flex;
